@@ -1,7 +1,7 @@
-<h1>Threat Detection Home Lab Using Splunk and Sysmon</h1>
+<h1>Telemetry Analysis Home Lab with Splunk and Sysmon </h1>
 
 <h2>Description</h2>
-In this lab we're going to walk though how to create a threat detection lab in Splunk while ingesting telemetry from Sysmon. I will be using a Windows 10 VM and a Kali Linux VM inside of Oracle Virtual Box. Configuring this lab will definitely give you hands on experience with networking, analyzing data logs, and so much more! 
+In this lab we're going to walk through how to analyze and ingest telemetry from Sysmon logs that are feeding into Splunk. I will be using a Windows 10 VM and a Kali Linux VM inside of Oracle Virtual Box for penetration testing. Configuring this lab will definitely give you hands on experience with networking, analyzing data logs, and so much more! 
 <br />
 
 
